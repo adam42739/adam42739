@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Reach me at: aclynch@umich.edu
+- I'm currently working towards a Master's in Business Analytics at the Unviersity of Michigan.
+
+- 📫 How to reach me: aclynch@umich.edu
 <!--
 **adam42739/adam42739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
