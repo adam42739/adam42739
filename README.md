@@ -14,6 +14,6 @@ Check out my projects [here](https://github.com/adam42739/Portfolio)
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/adamclynch03/))
+- [LinkedIn](https://www.linkedin.com/in/adamclynch03/)
 
 
