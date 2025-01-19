@@ -10,7 +10,7 @@ Hi, I'm Adam. I'm an aspiring data analyst currently working towards my M.S. in 
 
 ### Projects
 
-Check out my projects [here](https://github.com/adam42739/Portfolio/blob/master/README.md)
+Check out my projects [here](https://github.com/adam42739/Portfolio/blob/master/README.md).
 
 ### Connect
 
